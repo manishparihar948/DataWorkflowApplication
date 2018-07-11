@@ -3,7 +3,7 @@
 Data Workflow Application Project Jupyter Notebook
 Topic Name : Traning Models
 
-Presnt By:
+Present By:
 Basem Dabbour
 Frank Timeus
 Manish Parihar
